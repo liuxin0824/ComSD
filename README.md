@@ -1,6 +1,6 @@
 # Contrastive-dynaMic-SD
 
-| | | | |
+
 |-|-|-|-|
 |![GIF 1](path/to/your/gif1.gif)<br>描述 1 |![GIF 2](path/to/your/gif2.gif)<br>描述 2 |![GIF 3](path/to/your/gif3.gif)<br>描述 3 |![GIF 4](path/to/your/gif4.gif)<br>描述 4 |
 |![GIF 5](path/to/your/gif5.gif)<br>描述 5 |![GIF 6](path/to/your/gif6.gif)<br>描述 6 |![GIF 7](path/to/your/gif7.gif)<br>描述 7 |![GIF 8](path/to/your/gif8.gif)<br>描述 8 |
