@@ -1,12 +1,7 @@
 # Contrastive-dynaMic-SD
 
-# 图片和描述展示
-
-| Gif 展示 | 描述 | Gif 展示 | 描述 |
-| ---- | ---- | ---- | ---- |
-| <img src="gifs/gif1.gif" width="100"> | 描述1 | <img src="gifs/gif2.gif" width="100"> | 描述2 |
-| <img src="gifs/gif3.gif" width="100"> | 描述3 | <img src="gifs/gif4.gif" width="100"> | 描述4 |
-| <img src="gifs/gif5.gif" width="100"> | 描述5 | <img src="gifs/gif6.gif" width="100"> | 描述6 |
-| <img src="gifs/gif7.gif" width="100"> | 描述7 | <img src="gifs/gif8.gif" width="100"> | 描述8 |
-| <img src="gifs/gif9.gif" width="100"> | 描述9 | <img src="gifs/gif10.gif" width="100"> | 描述10 |
-| <img src="gifs/gif11.gif" width="100"> | 描述11 | <img src="gifs/gif12.gif" width="100"> | 描述12 |
+| | | | |
+|-|-|-|-|
+|![GIF 1](path/to/your/gif1.gif)<br>描述 1 |![GIF 2](path/to/your/gif2.gif)<br>描述 2 |![GIF 3](path/to/your/gif3.gif)<br>描述 3 |![GIF 4](path/to/your/gif4.gif)<br>描述 4 |
+|![GIF 5](path/to/your/gif5.gif)<br>描述 5 |![GIF 6](path/to/your/gif6.gif)<br>描述 6 |![GIF 7](path/to/your/gif7.gif)<br>描述 7 |![GIF 8](path/to/your/gif8.gif)<br>描述 8 |
+|![GIF 9](path/to/your/gif9.gif)<br>描述 9 |![GIF 10](path/to/your/gif10.gif)<br>描述 10 |![GIF 11](path/to/your/gif11.gif)<br>描述 11 |![GIF 12](path/to/your/gif12.gif)<br>描述 12 |
