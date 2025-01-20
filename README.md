@@ -28,9 +28,9 @@ ComSD can discover diverse behaviors at different activity levels, including bot
 
 
 #### Cheetah
-| Flip backward | Jump in place | Flip forward | Walk on hands | Step back | Walk forward |
+| Flip backward | Jump | Flip forward | Walk on hands | Step back | Walk forward |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Lie and shake hand** | **Leg taps ground** |  **Leg taps ground(slow)** | **Hand taps ground** | **Posture 1** | **Posture 2** |
+| **Shake hand** | **Leg taps floor** |  **Leg taps floor(slow)** | **Hand taps floor** | **Posture 1** | **Posture 2** |
 
 
 
