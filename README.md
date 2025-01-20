@@ -47,7 +47,7 @@ Recent advanced approaches cannot take both state exploration and skill diversit
 ### CIC (baseline)
 
 
-CIC is able to produce dynamic movements, but the generated skills are **indistinguishable and homogeneous**. It can't generate behaviors at other activity levels. All the behaviors are trying to dynamically flip. **(high state exploration, low skill diversity)**
+CIC is able to produce dynamic movements, but the generated skills are **indistinguishable and homogeneous**. In addition, it can't generate behaviors at other activity levels. All the behaviors are trying to dynamically flip. **(high state exploration, low skill diversity)**
 
 
 
@@ -61,7 +61,7 @@ CIC is able to produce dynamic movements, but the generated skills are **indisti
 ### APS (baseline)
 
 
-APS can generate non-homogeneous postures, but it suffers from **lazy state exploration**. It can't generate behaviors at other activity levels. **(high skill diversity, low state exploration)**
+APS can generate non-homogeneous postures, but it suffers from **lazy state exploration**. In addition, it can't generate behaviors at other activity levels. **(high skill diversity, low state exploration)**
 
 
 
