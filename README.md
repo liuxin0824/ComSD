@@ -15,12 +15,60 @@ This article is currently under revision, and the code will be organized and ope
 ComSD can discover diverse behaviors at different activity levels, including both dynamic movements and static postures.
 
 
-|| | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="comsdgif/w12.gif" width="130" height="130"><br>Flip Forward | <img src="comsdgif/w11.gif" width="130" height="130"><br>flip backward | <img src="comsdgif/w10.gif" width="130" height="130"><br>failed flip | <img src="comsdgif/w9.gif" width="130" height="130"><br>advance on knees | <img src="comsdgif/w8.gif" width="130" height="130"><br>lie down & kick back | <img src="comsdgif/w7.gif" width="130" height="130"><br>Crawl Forward |
-| <img src="comsdgif/w6.gif" width="130" height="130"><br>描述 7 | <img src="comsdgif/w5.gif" width="130" height="130"><br>描述 8 | <img src="comsdgif/w4.gif" width="130" height="130"><br>描述 9 | <img src="comsdgif/w3.gif" width="130" height="130"><br>描述 10 | <img src="comsdgif/w2.gif" width="130" height="130"><br>描述 11 | <img src="comsdgif/w1.gif" width="130" height="130"><br>描述 12 |
-
-
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w12.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">Flip Forward</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w11.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">flip backward</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w10.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">failed flip</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w9.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">advance on knees</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w8.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">lie down & kick back</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w7.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">Crawl Forward</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w6.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">描述 7</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w5.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">描述 8</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w4.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">描述 9</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w3.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">描述 10</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w2.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">描述 11</span>
+    </td>
+    <td style="width: 16.66%; text-align: center;">
+      <img src="comsdgif/w1.gif" width="100" height="100"><br>
+      <span style="font - size: 12px; text-align: center;">描述 12</span>
+    </td>
+  </tr>
+</table>
 
 || | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
