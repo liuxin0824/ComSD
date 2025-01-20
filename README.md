@@ -7,7 +7,7 @@ This article is currently under revision, and the code will be organized and ope
 
 
 ## Skill Visualization
----
+
 
 ### ComSD (ours)
 (balance state exploration and skill diversity)
