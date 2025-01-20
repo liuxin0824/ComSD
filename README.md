@@ -15,65 +15,21 @@ This article is currently under revision, and the code will be organized and ope
 ComSD can discover diverse behaviors at different activity levels, including both dynamic movements and static postures.
 
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w12.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">Flip Forward</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w11.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">flip backward</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w10.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">failed flip</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w9.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">advance on knees</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w8.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">lie down & kick back</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w7.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">Crawl Forward</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w6.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">描述 7</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w5.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">描述 8</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w4.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">描述 9</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w3.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">描述 10</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w2.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">描述 11</span>
-    </td>
-    <td style="width: 16.66%; text-align: center;">
-      <img src="comsdgif/w1.gif" width="100" height="100"><br>
-      <span style="font - size: 12px; text-align: center;">描述 12</span>
-    </td>
-  </tr>
-</table>
+| Flip backward | Flip forward | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|![GIF 1](comsdgif/w12.gif) |![GIF 2](comsdgif/w11.gif) |![GIF 3](comsdgif/w10.gif) |![GIF 4](comsdgif/w9.gif) |![GIF 5](comsdgif/w8.gif) |![GIF 6](comsdgif/w7.gif) |
 
 || | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![GIF 1](comsdgif/c12.gif)<br>描述 1 |![GIF 2](comsdgif/c11.gif)<br>描述 2 |![GIF 3](comsdgif/c10.gif)<br>描述 3 |![GIF 4](comsdgif/c9.gif)<br>描述 4 |![GIF 5](comsdgif/c8.gif)<br>描述 5 |![GIF 6](comsdgif/c7.gif)<br>描述 6 |
-|![GIF 7](comsdgif/c6.gif)<br>描述 7 |![GIF 8](comsdgif/c5.gif)<br>描述 8 |![GIF 9](comsdgif/c4.gif)<br>描述 9 |![GIF 10](comsdgif/c3.gif)<br>描述 10 |![GIF 11](comsdgif/c2.gif)<br>描述 11 |![GIF 12](comsdgif/c1.gif)<br>描述 12 |
+|![GIF 7](comsdgif/w6.gif) |![GIF 8](comsdgif/w5.gif) |![GIF 9](comsdgif/w4.gif) |![GIF 10](comsdgif/w3.gif) |![GIF 11](comsdgif/w2.gif) |![GIF 12](comsdgif/w1.gif) |
+
+|| | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|![GIF 1](comsdgif/c12.gif) |![GIF 2](comsdgif/c11.gif) |![GIF 3](comsdgif/c10.gif) |![GIF 4](comsdgif/c9.gif) |![GIF 5](comsdgif/c8.gif) |![GIF 6](comsdgif/c7.gif) |
+
+|| | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|![GIF 7](comsdgif/c6.gif) |![GIF 8](comsdgif/c5.gif) |![GIF 9](comsdgif/c4.gif) |![GIF 10](comsdgif/c3.gif) |![GIF 11](comsdgif/c2.gif) |![GIF 12](comsdgif/c1.gif) |
 
 
 ---
