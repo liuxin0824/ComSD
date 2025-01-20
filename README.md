@@ -10,9 +10,9 @@ This article is currently under revision, and the code will be organized and ope
 
 
 ### ComSD (ours)
-(balance state exploration and skill diversity)
 
-ComSD can discover diverse behaviors at different activity levels, including both dynamic movements and static postures.
+
+ComSD can discover **diverse behaviors at different activity levels**, including both dynamic movements and static postures. **(balancing state exploration and skill diversity)**
 
 
 #### Walker
@@ -45,23 +45,31 @@ Recent advanced approaches cannot take both state exploration and skill diversit
 
 
 ### CIC (baseline)
-(high state exploration, low skill diversity)
 
-CIC is able to produce dynamic movements, but the generated skills are indistinguishable and homogeneous. It can't generate behaviors at other activity levels. 
+
+CIC is able to produce dynamic movements, but the generated skills are **indistinguishable and homogeneous**. It can't generate behaviors at other activity levels. All the behaviors are trying to dynamically flip. **(high state exploration, low skill diversity)**
+
+
 
 || | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![GIF 1](cic/w1.gif)<br>|![GIF 2](cic/w2.gif)<br>|![GIF 3](cic/w3.gif)<br> |![GIF 4](cic/c1.gif)<br> |![GIF 5](cic/c2.gif)<br>|![GIF 6](cic/c3.gif)<br> |
 
 
-### APS (baseline)
-(high skill diversity, low state exploration)
 
-APS can generate non-homogeneous postures, but it suffers from lazy state exploration. It can't generate behaviors at other activity levels. 
+
+### APS (baseline)
+
+
+APS can generate non-homogeneous postures, but it suffers from **lazy state exploration**. It can't generate behaviors at other activity levels. **(high skill diversity, low state exploration)**
+
+
 
 || | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![GIF 1](aps/w1.gif)<br> |![GIF 2](aps/w2.gif)<br>|![GIF 3](aps/w3.gif)<br>|![GIF 4](aps/c1.gif)<br> |![GIF 5](aps/c2.gif)<br>|![GIF 6](aps/c3.gif)<br>|
+
+
 
 
 
