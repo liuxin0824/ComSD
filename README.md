@@ -17,8 +17,8 @@ ComSD can discover diverse behaviors at different activity levels, including bot
 
 || | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![GIF 1](comsdgif/w12.gif)<br>描述 1 |![GIF 2](comsdgif/w11.gif)<br>描述 2 |![GIF 3](comsdgif/w10.gif)<br>描述 3 |![GIF 4](comsdgif/w9.gif)<br>描述 4 |![GIF 5](comsdgif/w8.gif)<br>描述 5 |![GIF 6](comsdgif/w7.gif)<br>描述 6 |
-|![GIF 7](comsdgif/w6.gif)<br>描述 7 |![GIF 8](comsdgif/w5.gif)<br>描述 8 |![GIF 9](comsdgif/w4.gif)<br>描述 9 |![GIF 10](comsdgif/w3.gif)<br>描述 10 |![GIF 11](comsdgif/w2.gif)<br>描述 11 |![GIF 12](comsdgif/w1.gif)<br>描述 12 |
+| <img src="comsdgif/w12.gif" width="150" height="150"><br>Flip Forward | <img src="comsdgif/w11.gif" width="150" height="150"><br>flip backward | <img src="comsdgif/w10.gif" width="150" height="150"><br>failed flip | <img src="comsdgif/w9.gif" width="150" height="150"><br>advance on knees | <img src="comsdgif/w8.gif" width="150" height="150"><br>lie down & kick back | <img src="comsdgif/w7.gif" width="150" height="150"><br>Crawl Forward |
+| <img src="comsdgif/w6.gif" width="150" height="150"><br>描述 7 | <img src="comsdgif/w5.gif" width="150" height="150"><br>描述 8 | <img src="comsdgif/w4.gif" width="150" height="150"><br>描述 9 | <img src="comsdgif/w3.gif" width="150" height="150"><br>描述 10 | <img src="comsdgif/w2.gif" width="150" height="150"><br>描述 11 | <img src="comsdgif/w1.gif" width="150" height="150"><br>描述 12 |
 
 
 
