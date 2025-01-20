@@ -15,24 +15,32 @@ This article is currently under revision, and the code will be organized and ope
 ComSD can discover diverse behaviors at different activity levels, including both dynamic movements and static postures.
 
 
-| Flip backward | Flip forward | | | | |
+#### Walker
+| Flip backward | Flip forward | Flip failed  | Advance on knees | Kick back | Crawl forward |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![GIF 1](comsdgif/w12.gif) |![GIF 2](comsdgif/w11.gif) |![GIF 3](comsdgif/w10.gif) |![GIF 4](comsdgif/w9.gif) |![GIF 5](comsdgif/w8.gif) |![GIF 6](comsdgif/w7.gif) |
+| **Shake the left leg** | **Stand up** | **Flip to yoga** | **Lift the right leg** | **Lift the left leg** | **Kneel down** |
 
-|| | | | | |
+
+|![GIF 1](comsdgif/w12.gif) |![GIF 2](comsdgif/w11.gif) |![GIF 3](comsdgif/w10.gif) |![GIF 4](comsdgif/w9.gif) |![GIF 5](comsdgif/w8.gif) |![GIF 6](comsdgif/w7.gif) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![GIF 7](comsdgif/w6.gif) |![GIF 8](comsdgif/w5.gif) |![GIF 9](comsdgif/w4.gif) |![GIF 10](comsdgif/w3.gif) |![GIF 11](comsdgif/w2.gif) |![GIF 12](comsdgif/w1.gif) |
 
-|| | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|![GIF 1](comsdgif/c12.gif) |![GIF 2](comsdgif/c11.gif) |![GIF 3](comsdgif/c10.gif) |![GIF 4](comsdgif/c9.gif) |![GIF 5](comsdgif/c8.gif) |![GIF 6](comsdgif/c7.gif) |
 
-|| | | | | |
+
+#### Cheetah
+| Flip backward | Jump in place | Flip forward | Walk on hands | Step back | Walk forward |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Lie and shake hand** | **Leg taps ground** |  **Leg taps ground(slow)** | **Hand taps ground** | **Posture 1** | **Posture 2** |
+
+
+
+
+|![GIF 1](comsdgif/c12.gif) |![GIF 2](comsdgif/c11.gif) |![GIF 3](comsdgif/c10.gif) |![GIF 4](comsdgif/c9.gif) |![GIF 5](comsdgif/c8.gif) |![GIF 6](comsdgif/c7.gif) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![GIF 7](comsdgif/c6.gif) |![GIF 8](comsdgif/c5.gif) |![GIF 9](comsdgif/c4.gif) |![GIF 10](comsdgif/c3.gif) |![GIF 11](comsdgif/c2.gif) |![GIF 12](comsdgif/c1.gif) |
 
 
----
+___
 Recent advanced approaches cannot take both state exploration and skill diversity into account. They also can't generate behaviors at different activity levels.
 
 
