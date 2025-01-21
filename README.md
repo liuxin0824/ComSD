@@ -16,7 +16,7 @@ ComSD can discover **diverse behaviors at different activity levels**, including
 
 
 #### Walker
-| Flip backward | Flip forward | Flip failed  | Advance on knees | Kick back | Crawl forward |
+| Flip forward | Flip backward | Flip failed  | Advance on knees | Kick back | Crawl forward |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Shake the left leg** | **Stand up** | **Flip to yoga** | **Lift the right leg** | **Lift the left leg** | **Kneel down** |
 
