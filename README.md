@@ -71,7 +71,7 @@ APS can generate non-homogeneous postures, but it suffers from **lazy state expl
 
 ___
 
-The quantitative analysis also verify that our ComSD enables the best balance between diversity and exploration.
+The quantitative analysis also verify that our ComSD enables better balance between diversity and exploration than advanced baselines.
 
 
 ![Example Image](quantitative.png)
