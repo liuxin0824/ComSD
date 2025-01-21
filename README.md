@@ -6,7 +6,7 @@ This article is currently under revision, and the code will be organized and ope
 
 
 
-## Videos of the discovered skills after unsupervised pre-training
+## Videos of the discovered unsupervised skills
 
 
 ### ComSD (ours)
@@ -14,6 +14,8 @@ This article is currently under revision, and the code will be organized and ope
 
 ComSD can discover **diverse behaviors at different activity levels**, including both dynamic movements and static postures. **(balancing state exploration and skill diversity)**
 
+
+We visualized some representative skills discovered by ComSD in **Walker** and **Cheetah**. Above the video is a description of the discovered skills, not a specific task. The pretraining stage is completely task-agnostic.
 
 #### Walker
 | Flip forward | Flip backward | Flip failed  | Advance on knees | Kick back | Crawl forward |
@@ -28,6 +30,8 @@ ComSD can discover **diverse behaviors at different activity levels**, including
 
 
 #### Cheetah
+
+
 | Flip backward | Jump | Flip forward | Walk on hands | Step back | Walk forward |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Shake hand** | **Leg taps floor** |  **Leg taps floor(slow)** | **Hand taps floor** | **Posture 1** | **Posture 2** |
@@ -47,10 +51,11 @@ Recent advanced approaches cannot take both state exploration and skill diversit
 ### CIC
 
 
-CIC is able to produce dynamic movements, but the generated skills are **indistinguishable and homogeneous**. In addition, it can't generate behaviors at other activity levels. All the behaviors are trying to dynamically flip. **(high state exploration, low skill diversity)**
+CIC is able to produce dynamic movements, but the generated skills are **indistinguishable and homogeneous**. Most skills discovered by CIC are trying to dynamically flip. In addition, it can't generate behaviors at other activity levels.  **(high state exploration, low skill diversity)**
 
 
-#### Left three: Walker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Right three: Cheetah
+
+#### Left three: Walker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Right three: Cheetah
  | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![GIF 1](cic/w1.gif)<br>|![GIF 2](cic/w2.gif)<br>|![GIF 3](cic/w3.gif)<br> |![GIF 4](cic/c1.gif)<br> |![GIF 5](cic/c2.gif)<br>|![GIF 6](cic/c3.gif)<br> |
@@ -62,11 +67,11 @@ CIC is able to produce dynamic movements, but the generated skills are **indisti
 ### APS
 
 
-APS can generate non-homogeneous postures, but it suffers from **lazy state exploration**. In addition, it can't generate behaviors at other activity levels. **(high skill diversity, low state exploration)**
+APS can generate non-homogeneous postures, but it suffers from **lazy state exploration**. It can't generate behaviors at other activity levels. **(high skill diversity, low state exploration)**
 
 
-
-| Walker| | |Cheetah | | |
+#### Left three: Walker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Right three: Cheetah
+| | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![GIF 1](aps/w1.gif)<br> |![GIF 2](aps/w2.gif)<br>|![GIF 3](aps/w3.gif)<br>|![GIF 4](aps/c1.gif)<br> |![GIF 5](aps/c2.gif)<br>|![GIF 6](aps/c3.gif)<br>|
 
