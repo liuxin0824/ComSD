@@ -69,6 +69,13 @@ APS can generate non-homogeneous postures, but it suffers from **lazy state expl
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![GIF 1](aps/w1.gif)<br> |![GIF 2](aps/w2.gif)<br>|![GIF 3](aps/w3.gif)<br>|![GIF 4](aps/c1.gif)<br> |![GIF 5](aps/c2.gif)<br>|![GIF 6](aps/c3.gif)<br>|
 
+___
+
+The quantitative analysis also verify that only our ComSD enables balance between diversity and exploration.
+
+
+![Example Image](quantitative.png)
+
 
 
 
