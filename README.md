@@ -15,7 +15,7 @@ This article is currently under revision, and the code will be organized and ope
 ComSD can discover **diverse behaviors at different activity levels**, including both dynamic movements and static postures. **(balancing state exploration and skill diversity)**
 
 
-We visualized some representative skills discovered by ComSD in **Walker** and **Cheetah**. Above the video is a description of the discovered skills, not a specific task. The pretraining stage is completely task-agnostic.
+We visualized some representative skills discovered by ComSD in **Walker** and **Cheetah**. Above the video are descriptions of the discovered skills, not specific tasks. The pretraining stage is completely task-agnostic.
 
 #### Walker
 | Flip forward | Flip backward | Flip failed  | Advance on knees | Kick back | Crawl forward |
@@ -51,7 +51,7 @@ Recent advanced approaches cannot take both state exploration and skill diversit
 ### CIC
 
 
-CIC is able to produce dynamic movements, but the generated skills are **indistinguishable and homogeneous**. Most skills discovered by CIC are trying to dynamically flip. In addition, it can't generate behaviors at other activity levels.  **(high state exploration, low skill diversity)**
+CIC is able to produce dynamic movements, but the generated skills are **indistinguishable and homogeneous**. Most skills discovered by CIC are trying to dynamically flip. In addition, it can't generate behaviors at other activity levels (e.g., postures).  **(high state exploration, low skill diversity)**
 
 
 
@@ -67,7 +67,7 @@ CIC is able to produce dynamic movements, but the generated skills are **indisti
 ### APS
 
 
-APS can generate non-homogeneous postures, but it suffers from **lazy state exploration**. It can't generate behaviors at other activity levels. **(high skill diversity, low state exploration)**
+APS can generate non-homogeneous postures, but it suffers from **lazy state exploration**. It can't generate behaviors at other activity levels (e.g., dynamic flip). **(high skill diversity, low state exploration)**
 
 
 #### Left three: Walker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Right three: Cheetah
