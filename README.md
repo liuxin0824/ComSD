@@ -6,7 +6,7 @@ This article is currently under revision, and the code will be organized and ope
 
 
 
-## Skill Visualization
+## Videos of the discovered skills after unsupervised pre-training
 
 
 ### ComSD (ours)
@@ -51,9 +51,13 @@ CIC is able to produce dynamic movements, but the generated skills are **indisti
 
 
 
-|| | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|![GIF 1](cic/w1.gif)<br>|![GIF 2](cic/w2.gif)<br>|![GIF 3](cic/w3.gif)<br> |![GIF 4](cic/c1.gif)<br> |![GIF 5](cic/c2.gif)<br>|![GIF 6](cic/c3.gif)<br> |
+ | | | |
+| :---: | :---: | :---: |
+|![GIF 1](cic/w1.gif)<br>|![GIF 2](cic/w2.gif)<br>|![GIF 3](cic/w3.gif)<br> |
+
+| | | |
+| :---: | :---: | :---: |
+ |![GIF 4](cic/c1.gif)<br> |![GIF 5](cic/c2.gif)<br>|![GIF 6](cic/c3.gif)<br> |
 
 
 
