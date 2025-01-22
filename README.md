@@ -12,7 +12,7 @@ This article is currently under revision, and the code will be organized and ope
 ### ComSD (ours)
 
 
-ComSD can discover **diverse behaviors at different activity levels** without extrinsic rewards, including both dynamic movements and static postures. **(balancing state exploration and skill diversity)**
+ComSD can discover **diverse behaviors at different activity levels** without extrinsic rewards, including different kinds of dynamic movements and static postures. **(balancing state exploration and skill diversity)**
 
 
 We visualized some representative skills discovered by ComSD in **Walker** and **Cheetah**. Note that the skill discovery stage is totally task-agnostic, and all the discovered skills are pre-trained with only intrinsic rewards. Above the videos are the descriptions of the discovered unsupervised skills, not specific tasks. For example, in **Walker**, the discovered behavior in the sixth column of the second row is 'kneel down'.
