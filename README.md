@@ -17,27 +17,7 @@ Rurrent advanced methods can either only learn different static postures **(low 
 We visualized some representative skills discovered by ComSD (ours) in Walker and Cheetah. We also visualize two representative baselines: CIC (low skill diversity) and APS (low state exploration), for comparison. You can refer to Section V-J in the paper for more detailed analysis.
 
 ___
-### Walker
 
-
-**ComSD (ours)**: Diverse behaviors at different exploratory levels. Hover over each video for description.
-
-| <img src="comsdgif/w12.gif" title="Flip forward"> | <img src="comsdgif/w10.gif" title="Flip failed"> | <img src="comsdgif/w8.gif" title="Lie down and kick back"> | <img src="comsdgif/w5.gif" title="Stand up"> | <img src="comsdgif/w4.gif" title="Flip to yoga"> | <img src="comsdgif/w2.gif" title="Lift the left leg"> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="comsdgif/w11.gif" title="Flip backward"> | <img src="comsdgif/w9.gif" title="Advance on knees"> | <img src="comsdgif/w7.gif" title="Crawl forward"> | <img src="comsdgif/w13.gif" title="Left leg taps floor"> | <img src="comsdgif/w1.gif" title="Kneel down"> | <img src="comsdgif/w3.gif" title="Lift the right leg"> | 
-
-**APS**: Different postures at low activity. (low state exploration)
-
-|![GIF 1](aps/w1.gif)<br> |![GIF 2](aps/w2.gif)<br>|![GIF 3](aps/w3.gif)<br>|![GIF 4](aps/w4.gif)<br> |![GIF 5](aps/w5.gif)<br>|![GIF 6](aps/w6.gif)<br>|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-
-
-**CIC**: Homogeneous dynamically flipping. (low skill diversity)
-
-|![GIF 1](cic/w1.gif)<br> |![GIF 2](cic/w2.gif)<br>|![GIF 3](cic/w3.gif)<br>|![GIF 4](cic/w4.gif)<br> |![GIF 5](cic/w5.gif)<br>|![GIF 6](cic/w6.gif)<br>|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-
-___
 ### Cheetah
 
 **ComSD (ours)**: Diverse behaviors at different exploratory levels. Hover over each video for description.
@@ -56,6 +36,29 @@ ___
 **CIC**: Homogeneous dynamically flipping. (low skill diversity)
 
 |![GIF 1](cic/c1.gif)<br> |![GIF 2](cic/c2.gif)<br>|![GIF 3](cic/c3.gif)<br>|![GIF 4](cic/c4.gif)<br> |![GIF 5](cic/c5.gif)<br>|![GIF 6](cic/c6.gif)<br>|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
+
+___
+
+### Walker
+
+
+**ComSD (ours)**: Diverse behaviors at different exploratory levels. Hover over each video for description.
+
+| <img src="comsdgif/w12.gif" title="Flip forward"> | <img src="comsdgif/w10.gif" title="Flip failed"> | <img src="comsdgif/w8.gif" title="Lie down and kick back"> | <img src="comsdgif/w5.gif" title="Stand up"> | <img src="comsdgif/w4.gif" title="Flip to yoga"> | <img src="comsdgif/w2.gif" title="Lift the left leg"> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="comsdgif/w11.gif" title="Flip backward"> | <img src="comsdgif/w9.gif" title="Advance on knees"> | <img src="comsdgif/w7.gif" title="Crawl forward"> | <img src="comsdgif/w13.gif" title="Left leg taps floor"> | <img src="comsdgif/w1.gif" title="Kneel down"> | <img src="comsdgif/w3.gif" title="Lift the right leg"> | 
+
+**APS**: Different postures at low activity. (low state exploration)
+
+|![GIF 1](aps/w1.gif)<br> |![GIF 2](aps/w2.gif)<br>|![GIF 3](aps/w3.gif)<br>|![GIF 4](aps/w4.gif)<br> |![GIF 5](aps/w5.gif)<br>|![GIF 6](aps/w6.gif)<br>|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
+
+**CIC**: Homogeneous dynamically flipping. (low skill diversity)
+
+|![GIF 1](cic/w1.gif)<br> |![GIF 2](cic/w2.gif)<br>|![GIF 3](cic/w3.gif)<br>|![GIF 4](cic/w4.gif)<br> |![GIF 5](cic/w5.gif)<br>|![GIF 6](cic/w6.gif)<br>|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
