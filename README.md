@@ -9,23 +9,24 @@ This article is currently under revision, and the code will be organized and ope
 ## Videos of the discovered unsupervised skills
 
 
-### ComSD (ours)
 
+**ComSD (ours)** can discover diverse robot behaviors at different exploratory levels, including different kinds of dynamic movements and static postures. **(balances state exploration and skill diversity)**
 
-ComSD can discover **diverse behaviors at different activity levels** without extrinsic rewards, including different kinds of dynamic movements and static postures. **(balancing state exploration and skill diversity)**
+Rurrent advanced methods can either only learn different static postures **(low state exploration)** or only produce highly dynamic movements that are homogeneous **(low skill diversity)**.
 
+We visualized some representative skills discovered by ComSD (ours) in Walker and Cheetah. We also visualize two representative baselines: CIC (low skill diversity) and APS (low state exploration), for comparison. 
 
-We visualized some representative skills discovered by ComSD in **Walker** and **Cheetah**. Note that the skill discovery stage is totally task-agnostic, and all the discovered skills are pre-trained with only intrinsic rewards. Above the videos are the descriptions of the discovered unsupervised skills, not specific tasks. For example, in **Walker**, the discovered behavior in the sixth column of the second row is 'kneel down'.
+### Walker
 
-#### Walker
+APS discover different static postures at low activity. CIC discover homogeneous dynamically flipping.  ComSD (ours) discover diverse behaviors at different exploratory levels. Move the mouse over eacn skill video to get its concrete description. 
 
-
+#### ComSD (ours) 
 
 | <img src="comsdgif/w12.gif" title="Flip forward"> | <img src="comsdgif/w11.gif" title="Flip backward"> | <img src="comsdgif/w10.gif" title="Flip failed"> | <img src="comsdgif/w9.gif" title="Advance on knees"> | <img src="comsdgif/w8.gif" title="Lie down and kick back"> | <img src="comsdgif/w7.gif" title="Crawl forward"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="comsdgif/w6.gif" title="Shake the left leg"> | <img src="comsdgif/w5.gif" title="Stand up"> | <img src="comsdgif/w4.gif" title="Flip to yoga"> | <img src="comsdgif/w3.gif" title="Lift the right leg"> | <img src="comsdgif/w2.gif" title="Lift the left leg"> | <img src="comsdgif/w1.gif" title="Kneel down"> |
 
-#### Cheetah
+### Cheetah
 
 
 
@@ -64,9 +65,12 @@ APS can generate non-homogeneous postures, but it suffers from **lazy state expl
 
 
 #### Left three: Walker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Right three: Cheetah
-| | | | | | |
+|![GIF 1](aps/w1.gif)<br> |![GIF 2](aps/w2.gif)<br>|![GIF 3](aps/w3.gif)<br>|![GIF 4](aps/w4.gif)<br> |![GIF 5](aps/w5.gif)<br>|![GIF 6](aps/w6.gif)<br>|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![GIF 1](aps/w1.gif)<br> |![GIF 2](aps/w2.gif)<br>|![GIF 3](aps/w3.gif)<br>|![GIF 4](aps/c1.gif)<br> |![GIF 5](aps/c2.gif)<br>|![GIF 6](aps/c3.gif)<br>|
+
+|![GIF 1](aps/c1.gif)<br> |![GIF 2](aps/c2.gif)<br>|![GIF 3](aps/c3.gif)<br>|![GIF 4](aps/c4.gif)<br> |![GIF 5](aps/c5.gif)<br>|![GIF 6](aps/c6.gif)<br>|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
 
 Skills discovered by APS are all different static postures.
 
