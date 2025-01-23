@@ -16,16 +16,31 @@ Rurrent advanced methods can either only learn different static postures **(low 
 
 We visualized some representative skills discovered by ComSD (ours) in Walker and Cheetah. We also visualize two representative baselines: CIC (low skill diversity) and APS (low state exploration), for comparison. 
 
+___
 ### Walker
 
-APS discover different static postures at low activity. CIC discover homogeneous dynamically flipping.  ComSD (ours) discover diverse behaviors at different exploratory levels. Move the mouse over eacn skill video to get its concrete description. 
 
-#### ComSD (ours) 
+#### ComSD (ours)
+Diverse behaviors at different exploratory levels. Move the mouse over videos to get descriptions.
 
-| <img src="comsdgif/w12.gif" title="Flip forward"> | <img src="comsdgif/w11.gif" title="Flip backward"> | <img src="comsdgif/w10.gif" title="Flip failed"> | <img src="comsdgif/w9.gif" title="Advance on knees"> | <img src="comsdgif/w8.gif" title="Lie down and kick back"> | <img src="comsdgif/w7.gif" title="Crawl forward"> |
+| <img src="comsdgif/w12.gif" title="Flip forward"> | <img src="comsdgif/w10.gif" title="Flip failed"> | <img src="comsdgif/w8.gif" title="Lie down and kick back"> | <img src="comsdgif/w6.gif" title="Shake the left leg"> | <img src="comsdgif/w4.gif" title="Flip to yoga"> | <img src="comsdgif/w2.gif" title="Lift the left leg"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="comsdgif/w6.gif" title="Shake the left leg"> | <img src="comsdgif/w5.gif" title="Stand up"> | <img src="comsdgif/w4.gif" title="Flip to yoga"> | <img src="comsdgif/w3.gif" title="Lift the right leg"> | <img src="comsdgif/w2.gif" title="Lift the left leg"> | <img src="comsdgif/w1.gif" title="Kneel down"> |
+| <img src="comsdgif/w11.gif" title="Flip backward"> | <img src="comsdgif/w9.gif" title="Advance on knees"> | <img src="comsdgif/w7.gif" title="Crawl forward"> | <img src="comsdgif/w5.gif" title="Stand up"> | <img src="comsdgif/w3.gif" title="Lift the right leg"> | <img src="comsdgif/w1.gif" title="Kneel down"> |
 
+#### APS 
+Different static postures at low activity.
+
+|![GIF 1](aps/w1.gif)<br> |![GIF 2](aps/w2.gif)<br>|![GIF 3](aps/w3.gif)<br>|![GIF 4](aps/w4.gif)<br> |![GIF 5](aps/w5.gif)<br>|![GIF 6](aps/w6.gif)<br>|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
+
+#### CIC 
+Homogeneous dynamically flipping.
+
+|![GIF 1](cic/w1.gif)<br> |![GIF 2](cic/w2.gif)<br>|![GIF 3](cic/w3.gif)<br>|![GIF 4](cic/w4.gif)<br> |![GIF 5](cic/w5.gif)<br>|![GIF 6](cic/w6.gif)<br>|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
+___
 ### Cheetah
 
 
