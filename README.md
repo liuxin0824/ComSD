@@ -24,7 +24,7 @@ ___
 
 | <img src="comsdgif/w12.gif" title="Flip forward"> | <img src="comsdgif/w10.gif" title="Flip failed"> | <img src="comsdgif/w8.gif" title="Lie down and kick back"> | <img src="comsdgif/w5.gif" title="Stand up"> | <img src="comsdgif/w4.gif" title="Flip to yoga"> | <img src="comsdgif/w2.gif" title="Lift the left leg"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="comsdgif/w11.gif" title="Flip backward"> | <img src="comsdgif/w9.gif" title="Advance on knees"> | <img src="comsdgif/w7.gif" title="Crawl forward"> | <img src="comsdgif/w13.gif" title="left leg taps floor"> | <img src="comsdgif/w1.gif" title="Kneel down"> | <img src="comsdgif/w3.gif" title="Lift the right leg"> | 
+| <img src="comsdgif/w11.gif" title="Flip backward"> | <img src="comsdgif/w9.gif" title="Advance on knees"> | <img src="comsdgif/w7.gif" title="Crawl forward"> | <img src="comsdgif/w13.gif" title="Left leg taps floor"> | <img src="comsdgif/w1.gif" title="Kneel down"> | <img src="comsdgif/w3.gif" title="Lift the right leg"> | 
 
 **APS**: Different postures at low activity. (low state exploration)
 
