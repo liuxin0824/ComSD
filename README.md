@@ -20,7 +20,7 @@ ___
 ### Walker
 
 
-**ComSD (ours)**: Diverse behaviors at different exploratory levels. Move the mouse eacn video to get its own description.
+**ComSD (ours)**: Diverse behaviors at different exploratory levels. Hover over each video for description.
 
 | <img src="comsdgif/w12.gif" title="Flip forward"> | <img src="comsdgif/w10.gif" title="Flip failed"> | <img src="comsdgif/w8.gif" title="Lie down and kick back"> | <img src="comsdgif/w13.gif" title="left leg taps floor"> | <img src="comsdgif/w4.gif" title="Flip to yoga"> | <img src="comsdgif/w2.gif" title="Lift the left leg"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -40,7 +40,7 @@ ___
 ___
 ### Cheetah
 
-**ComSD (ours)**: Diverse behaviors at different exploratory levels. Move the mouse eacn video to get its own description.
+**ComSD (ours)**: Diverse behaviors at different exploratory levels. Hover over each video for description.
 
 | <img src="comsdgif/c12.gif" title="Flip backward"> | <img src="comsdgif/c10.gif" title="Flip forward"> | <img src="comsdgif/c8.gif" title="Step back"> | <img src="comsdgif/c6.gif" title="Flip and shake hand"> | <img src="comsdgif/c3.gif" title="Hand taps floor"> | <img src="comsdgif/c2.gif" title="Posture 1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
