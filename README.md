@@ -6,7 +6,7 @@ This article is currently under revision, and the code will be organized and ope
 
 
 
-## Videos of the discovered unsupervised skills
+## Videos of the discovered robot behaviors
 
 
 
