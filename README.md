@@ -18,30 +18,20 @@ ComSD can discover **diverse behaviors at different activity levels** without ex
 We visualized some representative skills discovered by ComSD in **Walker** and **Cheetah**. Note that the skill discovery stage is totally task-agnostic, and all the discovered skills are pre-trained with only intrinsic rewards. Above the videos are the descriptions of the discovered unsupervised skills, not specific tasks. For example, in **Walker**, the discovered behavior in the sixth column of the second row is 'kneel down'.
 
 #### Walker
-| Flip forward | Flip backward | Flip failed  | Advance on knees | Kick back | Crawl forward |
+
+
+
+| <img src="comsdgif/w12.gif" title="Flip forward"> | <img src="comsdgif/w11.gif" title="Flip backward"> | <img src="comsdgif/w10.gif" title="Flip failed"> | <img src="comsdgif/w9.gif" title="Advance on knees"> | <img src="comsdgif/w8.gif" title="Lie down and kick back"> | <img src="comsdgif/w7.gif" title="Crawl forward"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Shake the left leg** | **Stand up** | **Flip to yoga** | **Lift the right leg** | **Lift the left leg** | **Kneel down** |
-
-
-|![GIF 1](comsdgif/w12.gif) |![GIF 2](comsdgif/w11.gif) |![GIF 3](comsdgif/w10.gif) |![GIF 4](comsdgif/w9.gif) |![GIF 5](comsdgif/w8.gif) |![GIF 6](comsdgif/w7.gif) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|![GIF 7](comsdgif/w6.gif) |![GIF 8](comsdgif/w5.gif) |![GIF 9](comsdgif/w4.gif) |![GIF 10](comsdgif/w3.gif) |![GIF 11](comsdgif/w2.gif) |![GIF 12](comsdgif/w1.gif) |
-
-
+| <img src="comsdgif/w6.gif" title="Shake the left leg"> | <img src="comsdgif/w5.gif" title="Stand up"> | <img src="comsdgif/w4.gif" title="Flip to yoga"> | <img src="comsdgif/w3.gif" title="Lift the right leg"> | <img src="comsdgif/w2.gif" title="Lift the left leg"> | <img src="comsdgif/w1.gif" title="Kneel down"> |
 
 #### Cheetah
 
 
-| Flip backward | Jump | Flip forward | Walk on hands | Step back | Walk forward |
+
+| <img src="comsdgif/c12.gif" title="Flip backward"> | <img src="comsdgif/c11.gif" title="Jump"> | <img src="comsdgif/c10.gif" title="Flip forward"> | <img src="comsdgif/c9.gif" title="Walk on hands"> | <img src="comsdgif/c8.gif" title="Step back"> | <img src="comsdgif/c7.gif" title="Walk forward"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Shake hand** | **Leg taps floor** |  **Leg taps floor(slow)** | **Hand taps floor** | **Posture 1** | **Posture 2** |
-
-
-
-
-|![GIF 1](comsdgif/c12.gif) |![GIF 2](comsdgif/c11.gif) |![GIF 3](comsdgif/c10.gif) |![GIF 4](comsdgif/c9.gif) |![GIF 5](comsdgif/c8.gif) |![GIF 6](comsdgif/c7.gif) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|![GIF 7](comsdgif/c6.gif) |![GIF 8](comsdgif/c5.gif) |![GIF 9](comsdgif/c4.gif) |![GIF 10](comsdgif/c3.gif) |![GIF 11](comsdgif/c2.gif) |![GIF 12](comsdgif/c1.gif) |
+| <img src="comsdgif/c6.gif" title="Flip and shake hand"> | <img src="comsdgif/c5.gif" title="Leg taps floor"> | <img src="comsdgif/c4.gif" title="Leg taps floor(slow)"> | <img src="comsdgif/c3.gif" title="Hand taps floor"> | <img src="comsdgif/c2.gif" title="Posture 1"> | <img src="comsdgif/c1.gif" title="Posture 2"> |
 
 
 ___
