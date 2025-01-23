@@ -14,7 +14,7 @@ ComSD (ours) can discover diverse robot behaviors at different exploratory level
 
 Rurrent advanced methods can either only learn different static postures **(low state exploration)** or only produce highly dynamic movements that are homogeneous **(low skill diversity)**.
 
-We visualized some representative skills discovered by ComSD (ours) in Walker and Cheetah. We also visualize two representative baselines: CIC (low skill diversity) and APS (low state exploration), for comparison. You can refer to Section V-J in the paper for more detailed analysis.
+We visualized some representative skills discovered by ComSD (ours) in Cheetah and Walker. We also visualize two representative baselines: CIC (low skill diversity) and APS (low state exploration), for comparison. You can refer to Section V-J in the paper for more detailed analysis.
 
 ___
 
