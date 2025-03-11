@@ -1,0 +1,17 @@
+{
+  "maze_type": "square_tree",
+  "sampler": "oracle",
+  "num_samples": 4096,
+
+  "batch_size": 256,
+  "learning_rate": 2e-4,
+
+  "vae_args": {
+    "codebook_size": 10,
+    "code_size": 16,
+    "beta": 1.5,
+    "normalize_inputs": true,
+    "hidden_size": 128,
+    "num_layers": 3
+  }
+}

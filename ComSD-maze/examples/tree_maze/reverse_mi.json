@@ -1,0 +1,45 @@
+{
+  "learner_type": "ReverseMI",
+  "agent_type": "maze",
+  "train_type": "ppo",
+
+  "norm_advantage": true,
+  "cycles_per_epoch": 50,
+  "rollouts_per_cycle": 1,
+  "update_epochs_per_rollout": 4,
+
+  "eval_iters": 20,
+  "greedy_eval": false,
+
+  "learning_rate": 0.0003,
+  "epoch_lr_decay": 1,
+
+  "agent_params": {
+    "env_params": {
+      "n": 50,
+      "maze_type": "square_tree",
+      "done_on_success": false
+    },
+
+    "skill_n": 30,
+
+    "gamma": 0.99,
+    "gae_lambda": 0.98,
+    "entropy_lambda": 0.025,
+
+    "normalize_inputs": true,
+    "env_reward": false,
+
+    "rollouts": 50,
+    "n_mini_batches": 10,
+
+    "hidden_size": 128,
+    "num_layers": 3,
+
+    "im_params": {
+      "nu": 1,
+      "lambda": 1
+    }
+
+  }
+}

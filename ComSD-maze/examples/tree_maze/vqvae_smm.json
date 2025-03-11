@@ -1,0 +1,17 @@
+{
+  "sampler": "smm",
+  "smm_exp_name": "tree_maze/smm",
+  "smm_epoch": 5,
+
+  "batch_size": 256,
+  "learning_rate": 2e-4,
+
+  "vae_args": {
+    "codebook_size": 10,
+    "code_size": 16,
+    "beta": 1.5,
+    "normalize_inputs": true,
+    "hidden_size": 128,
+    "num_layers": 3
+  }
+}

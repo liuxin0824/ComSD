@@ -1,0 +1,51 @@
+{
+  "learner_type": "SMM",
+  "agent_type": "maze",
+  "train_type": "sac",
+  "cycles_per_epoch": 1000,
+  "env_steps_per_cycle": 1,
+  "gradient_steps_per_cycle": 1,
+
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "epoch_lr_decay": 1,
+
+  "min_buffer_size": 1000,
+  "buffer_capacity": 1000000,
+  "save_buffer": true,
+  "save_buffer_freq": 5,
+
+  "eval_iters": 4,
+  "greedy_eval": 0,
+
+  "agent_params": {
+    "env_params": {
+      "n": 50,
+      "maze_type": "square_tree",
+      "done_on_success": false
+    },
+
+    "skill_n": 4,
+    "gamma": 0.99,
+    "polyak": 0.995,
+    "normalize_inputs": false,
+    "alpha": 0.1,
+    "hidden_size": 128,
+
+    "im_params": {
+      "nu": 1,
+      "lambda": 1
+    },
+
+    "density_params": {
+      "type": "vae",
+      "model_params": {
+        "beta": 0.5,
+        "code_size": 64
+      },
+      "lambda": 1,
+      "learning_rate": 0.01,
+      "nu": 1
+    }
+  }
+}
