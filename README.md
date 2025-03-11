@@ -1,7 +1,6 @@
 # Balancing State Exploration and Skill Diversity in Unsupervised Skill Discovery
 
-## Code
-This article is currently under revision, and the code will be organized and open-sourced after acceptance.
+
 
 
 
@@ -70,6 +69,14 @@ The quantitative analysis also verify that our ComSD enables better balance betw
 
 ![Example Image](quantitative.png)
 
+
+## Implementation
+
+To run the ComSD agent in the 2D tree-like maze exploration
+
+```python
+# ComSD
+python main.py --config-path examples/tree_maze/ComSD_mi.json --log-dir logs/ComSD --dur 50 --N 1
 
 
 
