@@ -71,13 +71,48 @@ The quantitative analysis also verify that our ComSD enables better balance betw
 
 
 ## Implementation
+### Skill discovery: 2D Tree-maze exploration
 
-To run the ComSD agent in the 2D tree-like maze exploration
+To run the ComSD in the 2D tree-like maze exploration, python 3.5.2 is required.
+```
+conda create -n comsd-maze python=3.5.2
 
-```python
-# ComSD
+conda activate comsd-maze
+
+pip install -r requirements.txt
+```
+Then, enter the ComSD-Maze folder, and train the ComSD agent:
+
+```
+cd ComSD-Maze
+
 python main.py --config-path examples/tree_maze/ComSD_mi.json --log-dir logs/ComSD --dur 50 --N 1
+```
+
+This command runs the agent for 50 epochs. After the first epoch, you can visualize the checkpoint using visualize.ipynb:
+```
+Open the visualize.ipynb and set the environment to ComSD-Maze.
+
+Execute cell.
+```
+
+If there is no visualization in the results or an error occurs, you can try to 'execute cell' again or 'restart kernel'.
+
+
+### Skill discovery: DMC Robot behaviors
+Arranging and comming soon
 
 
 
+## Cite our paper
+
+
+```
+@article{comsd,
+  title={Balancing State Exploration and Skill Diversity in Unsupervised Skill Discovery},
+  author={Liu, Xin and Chen, Yaran and Chen, Guixing and Li, Haoran and Zhao, Dongbin},
+  journal={IEEE Transactions on Cybernetics},
+  year={2025}
+}
+```
 
