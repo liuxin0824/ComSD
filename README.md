@@ -81,10 +81,10 @@ conda activate comsd-maze
 
 pip install -r requirements.txt
 ```
-Then, enter the ComSD-Maze folder, and train the ComSD agent:
+Then, enter the ComSD-maze folder, and train the ComSD agent:
 
 ```
-cd ComSD-Maze
+cd ComSD-maze
 
 python main.py --config-path examples/tree_maze/ComSD_mi.json --log-dir logs/ComSD --dur 50 --N 1
 ```
