@@ -99,8 +99,8 @@ Execute cell.
 If there is no visualization in the results or an error occurs, you can try to 'execute cell' again or 'restart kernel'.
 
 
-### Skill discovery: DMC Robot behaviors
-Arranging and comming soon
+
+DMC Robot behaviors: arranging and comming soon
 
 
 
