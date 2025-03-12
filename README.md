@@ -2,7 +2,7 @@
 
 
 
-
+The visualization and implementation of ComSD.
 
 
 ## Videos of the discovered robot behaviors
