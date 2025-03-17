@@ -75,9 +75,9 @@ The quantitative analysis also verify that our ComSD enables better balance betw
 
 To run the ComSD in the 2D tree-like maze exploration, python 3.5.2 is required.
 ```
-conda create -n comsd-maze python=3.5.2
+conda create -n comsd-maze-env python=3.5.2
 
-conda activate comsd-maze
+conda activate comsd-maze-env
 
 pip install -r requirements.txt
 ```
@@ -91,7 +91,7 @@ python main.py --config-path examples/tree_maze/ComSD_mi.json --log-dir logs/Com
 
 This command runs the agent for 50 epochs. After the first epoch, you can visualize the checkpoint using visualize.ipynb:
 ```
-Open the visualize.ipynb and set the environment to ComSD-Maze.
+Open the visualize.ipynb and set the environment to comsd-maze-env.
 
 Execute cell.
 ```
