@@ -71,7 +71,7 @@ The quantitative analysis also verify that our ComSD enables better balance betw
 
 
 ## Implementation
-### Skill discovery: 2D Tree-maze exploration
+
 
 To run the ComSD in the 2D tree-like maze exploration, python 3.5.2 is required.
 ```
@@ -100,7 +100,7 @@ If there is no visualization in the results or an error occurs, you can try to '
 
 
 
-DMC Robot behaviors: arranging and comming soon
+Robot behavior discovery are arranging.
 
 
 
